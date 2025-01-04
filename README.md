@@ -26,7 +26,7 @@ To view CryptoBloom locally, you need:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cryptobloom.git
+   git clone https://github.com/ohiocodehunter/cryptobloom.git
    ```
 
 2. Navigate to the project directory:
